@@ -82,7 +82,7 @@ h1{
     <h1>❤️ Happy Anniversary ❤️</h1>
 
     <!-- Replace with your image -->
-    <img src="your-photo.jpg" class="photo">
+    <img src="xender/image/IMG_20260213_221427_871.jpg" class="photo">
 
     <div class="counter" id="days"></div>
 
